@@ -1,4 +1,4 @@
-		Pos		Driver	Cost	Qual	Race	Tot
+Pos		Driver	Cost	Qual	Race	Tot
 1st		Charles Leclerc
 Scuderia Ferrari
 Ferrari	10.00	50	307	357
