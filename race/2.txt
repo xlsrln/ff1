@@ -1,4 +1,4 @@
-		Pos		Driver	Cost	Qual	Race	Tot
+Pos		Driver	Cost	Qual	Race	Tot
 1st		Max Verstappen
 Red Bull Racing Honda
 Red Bull	18.20	20	265	285
