@@ -53,3 +53,9 @@ Mercedes	8.78	0	35	35
 18th		Nicholas Latifi
 Williams Racing
 Mercedes	6.05	0	14	14
+20th		Yuki Tsunoda
+Scuderia AlphaTauri
+Red Bull	7.35	0	0	0
+20th		Mick Schumacher
+Haas F1 Team
+Ferrari	5.11	0	0	0
