@@ -1,4 +1,4 @@
-Driver	Score	Before	After	Change
+	Driver	Score	Before	After	Change
 	Alexander Albon
 Williams Racing
 Mercedes	68	7.01	6.81	-0.20
