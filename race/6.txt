@@ -4,16 +4,16 @@ Red Bull Racing Honda
 Red Bull	19.31	30	271	301
 2nd		Sergio Pérez
 Red Bull Racing
-Red Bull	11.46	15	231	246
+Red Bull	11.46	15	206	221
 3rd		George Russell
 Mercedes-AMG Petronas F1 Team
 Mercedes	12.30	20	161	181
-4th		Carlos Sainz Jr.
+4th		Lewis Hamilton
+Mercedes-AMG Petronas F1 Team
+Mercedes	15.59	10	166	176
+5th		Carlos Sainz Jr.
 Scuderia Ferrari
 Ferrari	9.63	25	146	171
-5th		Lewis Hamilton
-Mercedes-AMG Petronas F1 Team
-Mercedes	15.59	10	141	151
 6th		Fernando Alonso
 Alpine F1 Team
 Renault	6.74	0	150	150
@@ -59,3 +59,4 @@ Mercedes	7.01	0	68	68
 20th		Guanyu Zhou
 Alfa Romeo F1 Team Orlen
 Ferrari	5.99	0	28	28
+
