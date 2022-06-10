@@ -1,19 +1,19 @@
 Pos		Driver	Cost	Qual	Race	Tot
 1st		Sergio Pérez
 Red Bull Racing
-Red Bull	12.13	25	274	299
+Red Bull	11.94	25	299	324
 2nd		Charles Leclerc
 Scuderia Ferrari
 Ferrari	13.41	50	144	194
 3rd		Carlos Sainz Jr.
 Scuderia Ferrari
 Ferrari	9.93	30	164	194
-4th		Lando Norris
-McLaren F1 Team
-Mercedes	8.96	15	174	189
-5th		Max Verstappen
+4th		Max Verstappen
 Red Bull Racing Honda
 Red Bull	19.60	20	159	179
+5th		Lando Norris
+McLaren F1 Team
+Mercedes	8.96	15	149	164
 6th		George Russell
 Mercedes-AMG Petronas F1 Team
 Mercedes	12.41	10	139	149
@@ -25,7 +25,7 @@ Scuderia AlphaTauri
 Red Bull	7.74	0	112	112
 9th		Lewis Hamilton
 Mercedes-AMG Petronas F1 Team
-Mercedes	15.14	6	104	110
+Mercedes	15.33	6	104	110
 10th		Valtteri Bottas
 Alfa Romeo F1 Team Orlen
 Ferrari	8.01	0	109	109
