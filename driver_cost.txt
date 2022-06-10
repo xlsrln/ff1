@@ -31,10 +31,10 @@ Aston Martin Cognizant F1 Team
 Mercedes	96	7.31	7.33	+0.02
 	Lando Norris
 McLaren F1 Team
-Mercedes	189	8.96	9.53	+0.57
+Mercedes	164	8.96	9.34	+0.38
 	Lewis Hamilton
 Mercedes-AMG Petronas F1 Team
-Mercedes	110	15.14	14.48	-0.66
+Mercedes	110	15.33	14.65	-0.68
 	Max Verstappen
 Red Bull Racing Honda
 Red Bull	179	19.60	19.03	-0.57
@@ -52,15 +52,10 @@ Aston Martin Cognizant F1 Team
 Mercedes	88	7.03	7.01	-0.02
 	Sergio Pérez
 Red Bull Racing
-Red Bull	299	12.13	13.24	+1.11
+Red Bull	324	11.94	13.27	+1.33
 	Valtteri Bottas
 Alfa Romeo F1 Team Orlen
 Ferrari	109	8.01	8.06	+0.05
 	Yuki Tsunoda
 Scuderia AlphaTauri
 Red Bull	69	7.31	7.12	-0.19
-
-
-
-
-
