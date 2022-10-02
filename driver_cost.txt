@@ -1,61 +1,61 @@
 	Driver	Score	Before	After	Change
 	Alexander Albon
 Williams Racing
-Mercedes	68	5.92	5.92	-
+Mercedes	25	6.06	5.67	-0.39
 	Carlos Sainz Jr.
 Scuderia Ferrari
-Ferrari	228	12.35	12.95	+0.60
+Ferrari	174	12.95	13.14	+0.19
 	Charles Leclerc
 Scuderia Ferrari
-Ferrari	203	13.20	13.52	+0.32
+Ferrari	209	13.52	13.95	+0.43
 	Daniel Ricciardo
 McLaren F1 Team
-Mercedes	51	6.97	6.68	-0.29
+Mercedes	184	6.68	7.58	+0.90
 	Esteban Ocon
 Alpine F1 Team
-Renault	86	8.89	8.69	-0.20
+Renault	26	8.69	8.04	-0.65
 	Fernando Alonso
 Alpine F1 Team
-Renault	33	9.04	8.40	-0.64
+Renault	35	8.40	7.86	-0.54
 	George Russell
 Mercedes-AMG Petronas F1 Team
-Mercedes	153	12.22	12.23	+0.01
+Mercedes	124	12.23	12.07	-0.16
 	Guanyu Zhou
 Alfa Romeo F1 Team Orlen
-Ferrari	73	5.44	5.48	+0.04
+Ferrari	6	5.48	4.98	-0.50
 	Kevin Magnussen
 Haas F1 Team
-Ferrari	60	5.82	5.72	-0.10
+Ferrari	79	5.72	5.82	+0.10
 	Lance Stroll
 Aston Martin Cognizant F1 Team
-Mercedes	39	7.27	6.86	-0.41
+Mercedes	144	6.86	7.40	+0.54
 	Lando Norris
 McLaren F1 Team
-Mercedes	111	9.08	9.07	-0.01
+Mercedes	159	9.07	9.52	+0.45
 	Lewis Hamilton
 Mercedes-AMG Petronas F1 Team
-Mercedes	208	13.30	13.65	+0.35
+Mercedes	114	13.65	13.26	-0.39
 	Max Verstappen
 Red Bull Racing Honda
-Red Bull	313	22.04	22.36	+0.32
+Red Bull	120	22.36	21.15	-1.21
 	Mick Schumacher
 Haas F1 Team
-Ferrari	94	6.23	6.36	+0.13
+Ferrari	72	6.36	6.34	-0.02
 	Nicholas Latifi
 Williams Racing
-Mercedes	62	5.54	5.49	-0.05
+Mercedes	7	5.49	5.00	-0.49
 	Pierre Gasly
 Scuderia AlphaTauri
-Red Bull	97	7.21	7.27	+0.06
+Red Bull	87	7.27	7.29	+0.02
 	Sebastian Vettel
 Aston Martin Cognizant F1 Team
-Mercedes	10	7.72	7.03	-0.69
+Mercedes	124	7.03	7.39	+0.36
 	Sergio Pérez
 Red Bull Racing
-Red Bull	193	12.30	12.63	+0.33
+Red Bull	319	12.63	14.09	+1.46
 	Valtteri Bottas
 Alfa Romeo F1 Team Orlen
-Ferrari	76	6.26	6.25	-0.01
+Ferrari	97	6.25	6.45	+0.20
 	Yuki Tsunoda
 Scuderia AlphaTauri
-Red Bull	94	5.83	6.00	+0.17
+Red Bull	36	6.00	5.71	-0.29
