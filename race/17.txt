@@ -1,0 +1,61 @@
+Pos		Driver	Cost	Qual	Race	Tot	Year
+1st		Sergio Pérez
+Red Bull Racing
+Red Bull	12.63	30	289	319	3032
+2nd		Charles Leclerc
+Scuderia Ferrari
+Ferrari	13.52	50	159	209	3444
+3rd		Daniel Ricciardo
+McLaren F1 Team
+Mercedes	6.68	0	184	184	1550
+4th		Carlos Sainz Jr.
+Scuderia Ferrari
+Ferrari	12.95	20	154	174	2762
+5th		Lando Norris
+McLaren F1 Team
+Mercedes	9.07	10	149	159	2089
+6th		Lance Stroll
+Aston Martin Cognizant F1 Team
+Mercedes	6.86	0	144	144	1627
+7th		Sebastian Vettel
+Aston Martin Cognizant F1 Team
+Mercedes	7.03	0	124	124	1439
+8th		George Russell
+Mercedes-AMG Petronas F1 Team
+Mercedes	12.23	0	124	124	2719
+9th		Max Verstappen
+Red Bull Racing Honda
+Red Bull	22.36	6	114	120	4594
+10th		Lewis Hamilton
+Mercedes-AMG Petronas F1 Team
+Mercedes	13.65	25	89	114	2629
+11th		Valtteri Bottas
+Alfa Romeo F1 Team Orlen
+Ferrari	6.25	0	97	97	1607
+12th		Pierre Gasly
+Scuderia AlphaTauri
+Red Bull	7.27	8	79	87	1522
+13th		Kevin Magnussen
+Haas F1 Team
+Ferrari	5.72	4	75	79	1393
+14th		Mick Schumacher
+Haas F1 Team
+Ferrari	6.36	0	72	72	1372
+15th		Yuki Tsunoda
+Scuderia AlphaTauri
+Red Bull	6.00	2	34	36	1256
+16th		Fernando Alonso
+Alpine F1 Team
+Renault	8.40	15	20	35	1727
+17th		Esteban Ocon
+Alpine F1 Team
+Renault	8.69	0	26	26	1919
+18th		Alexander Albon
+Williams Racing
+Mercedes	6.06	0	25	25	1296
+19th		Nicholas Latifi
+Williams Racing
+Mercedes	5.49	0	7	7	1178
+20th		Guanyu Zhou
+Alfa Romeo F1 Team Orlen
+Ferrari	5.48	0	6	6	1119
