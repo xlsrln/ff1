@@ -2,80 +2,80 @@
 	Alexander Albon
 Mercedes
 Williams Racing
-	72	5.10	5.16	+0.06
+	-	6.50	-	-
 	Carlos Sainz Jr.
 Ferrari
 Scuderia Ferrari
-	51	12.10	11.30	-0.80
+	-	12.50	-	-
 	Charles Leclerc
 Ferrari
 Scuderia Ferrari
-	221	14.15	14.49	+0.34
-	Daniel Ricciardo
-Mercedes
-McLaren F1 Team
-	64	7.32	7.10	-0.22
+	-	14.00	-	-
 	Esteban Ocon
 Renault
-Alpine F1 Team
-	119	8.61	8.69	+0.08
+BWT Alpine F1 Team
+	-	7.50	-	-
 	Fernando Alonso
-Renault
-Alpine F1 Team
-	145	8.00	8.35	+0.35
+Mercedes
+Aston Martin Aramco Cognizant F1 Team
+	-	8.00	-	-
 	George Russell
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	161	11.66	11.77	+0.11
-	Guanyu Zhou
-Ferrari
-Alfa Romeo F1 Team Orlen
-	95	5.14	5.38	+0.24
+	-	14.00	-	-
 	Kevin Magnussen
 Ferrari
-Haas F1 Team
-	106	5.83	6.09	+0.26
+MoneyGram Haas F1 Team
+	-	6.50	-	-
 	Lance Stroll
 Mercedes
-Aston Martin Cognizant F1 Team
-	29	7.46	6.94	-0.52
+Aston Martin Aramco Cognizant F1 Team
+	-	7.50	-	-
 	Lando Norris
 Mercedes
 McLaren F1 Team
-	122	9.11	9.17	+0.06
+	-	9.00	-	-
 	Lewis Hamilton
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	176	13.15	13.23	+0.08
-	Max Verstappen
-Red Bull
-Red Bull Racing Honda
-	286	22.03	22.10	+0.07
-	Mick Schumacher
-Ferrari
-Haas F1 Team
-	71	6.05	6.01	-0.04
-	Nicholas Latifi
+	-	14.00	-	-
+	Logan Sargeant
 Mercedes
 Williams Racing
-	62	5.66	5.59	-0.07
-	Pierre Gasly
+	-	6.00	-	-
+	Max Verstappen
+Red Bull
+Oracle Red Bull Racing
+	-	20.00	-	-
+	Nico Hülkenberg
+Ferrari
+MoneyGram Haas F1 Team
+	-	7.00	-	-
+	Nyck de Vries
 Red Bull
 Scuderia AlphaTauri
-	68	7.09	6.92	-0.17
-	Sebastian Vettel
+	-	6.00	-	-
+	Oscar Piastri
 Mercedes
-Aston Martin Cognizant F1 Team
-	131	8.07	8.30	+0.23
+McLaren F1 Team
+	-	8.00	-	-
+	Pierre Gasly
+Renault
+BWT Alpine F1 Team
+	-	8.00	-	-
 	Sergio Pérez
 Red Bull
-Red Bull Racing
-	181	14.38	14.38	-
+Oracle Red Bull Racing
+	-	14.00	-	-
 	Valtteri Bottas
 Ferrari
 Alfa Romeo F1 Team Orlen
-	18	6.21	5.73	-0.48
+	-	6.50	-	-
 	Yuki Tsunoda
 Red Bull
 Scuderia AlphaTauri
-	121	5.59	5.99	+0.40
+	-	6.00	-	-
+	Zhou Guanyu
+Ferrari
+Alfa Romeo F1 Team Orlen
+	-	6.00	-	-
