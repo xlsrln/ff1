@@ -2,85 +2,80 @@
 	Alexander Albon
 Mercedes
 Williams Racing
-	110	6.96	7.25	+0.29
+	95	7.25	7.28	+0.03
 	Carlos Sainz
 Ferrari
 Scuderia Ferrari
-	215	10.68	11.53	+0.85
+	337	11.52	13.06	+1.54
 	Charles Leclerc
 Ferrari
 Scuderia Ferrari
-	155	10.94	11.23	+0.29
+	167	11.23	11.44	+0.21
 	Esteban Ocon
 Renault
 BWT Alpine F1 Team
-	39	6.99	6.64	-0.35
+	48	6.64	6.36	-0.28
 	Fernando Alonso
 Mercedes
 Aston Martin Aramco Cognizant F1 Team
-	87	11.48	11.11	-0.37
+	80	11.11	10.64	-0.47
 	George Russell
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	140	11.43	11.54	+0.11
+	99	11.53	11.17	-0.36
 	Kevin Magnussen
 Ferrari
 MoneyGram Haas F1 Team
-	58	6.00	5.92	-0.08
+	92	5.92	6.06	+0.14
 	Lance Stroll
 Mercedes
 Aston Martin Aramco Cognizant F1 Team
-	91	7.73	7.77	+0.04
+	0	7.66	6.89	-0.77
 	Lando Norris
 Mercedes
 McLaren F1 Team
-	99	10.03	9.91	-0.12
+	192	9.91	10.45	+0.54
 	Lewis Hamilton
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	126	13.43	13.21	-0.22
+	202	13.21	13.50	+0.29
 	Liam Lawson
 Honda
 Scuderia AlphaTauri
-	63	6.68	6.57	-0.11
+	99	6.67	6.79	+0.12
 	Logan Sargeant
 Mercedes
 Williams Racing
-	87	5.14	5.40	+0.26
+	94	5.29	5.51	+0.22
 	Max Verstappen
 Red Bull
 Oracle Red Bull Racing
-	285	23.82	23.98	+0.16
+	162	23.97	22.87	-1.10
 	Nico Hülkenberg
 Ferrari
 MoneyGram Haas F1 Team
-	55	6.35	6.21	-0.14
+	80	6.21	6.23	+0.02
 	Oscar Piastri
 Mercedes
 McLaren F1 Team
-	98	7.62	7.73	+0.11
+	162	7.74	8.26	+0.52
 	Pierre Gasly
 Renault
 BWT Alpine F1 Team
-	62	7.72	7.50	-0.22
+	152	7.58	8.04	+0.46
 	Sergio Pérez
 Red Bull
 Oracle Red Bull Racing
-	180	15.00	15.11	+0.11
+	127	15.10	14.60	-0.50
 	Valtteri Bottas
 Ferrari
 Alfa Romeo F1 Team Orlen
-	89	6.90	7.01	+0.11
+	51	7.02	6.73	-0.29
 	Yuki Tsunoda
 Red Bull
 Scuderia AlphaTauri
-	0	6.45	5.80	-0.65
+	0	5.80	5.22	-0.58
 	Zhou Guanyu
 Ferrari
 Alfa Romeo F1 Team Orlen
-	64	6.55	6.47	-0.08
-
-
-
-
-
+	113	6.54	6.79	+0.25
