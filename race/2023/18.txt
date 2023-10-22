@@ -1,0 +1,81 @@
+Pos		Driver	Cost	Score	PPM
+1st		Max Verstappen
+Red Bull
+Oracle Red Bull Racing
+	23.83	360	15
+2nd		Lando Norris
+Mercedes
+McLaren F1 Team
+	11.52	240	21
+3rd		Lewis Hamilton
+Mercedes
+Mercedes-AMG Petronas F1 Team
+	12.56	236	19
+4th		Charles Leclerc
+Ferrari
+Scuderia Ferrari
+	11.63	210	18
+5th		Sergio Pérez
+Red Bull
+Oracle Red Bull Racing
+	13.00	186	14
+6th		Carlos Sainz
+Ferrari
+Scuderia Ferrari
+	11.80	185	16
+7th		Lance Stroll
+Mercedes
+Aston Martin Aramco Cognizant F1 Team
+	6.56	157	24
+8th		George Russell
+Mercedes
+Mercedes-AMG Petronas F1 Team
+	11.38	149	13
+9th		Pierre Gasly
+Renault
+BWT Alpine F1 Team
+	7.92	133	17
+10th		Yuki Tsunoda
+Red Bull
+Scuderia AlphaTauri
+	5.45	130	24
+11th		Alexander Albon
+Mercedes
+Williams Racing
+	6.87	117	17
+12th		Nico Hülkenberg
+Ferrari
+MoneyGram Haas F1 Team
+	6.26	115	18
+13th		Logan Sargeant
+Mercedes
+Williams Racing
+	4.93	112	23
+14th		Valtteri Bottas
+Ferrari
+Alfa Romeo F1 Team Orlen
+	6.38	89	14
+15th		Kevin Magnussen
+Ferrari
+MoneyGram Haas F1 Team
+	6.19	87	14
+16th		Zhou Guanyu
+Ferrari
+Alfa Romeo F1 Team Orlen
+	7.36	84	11
+17th		Daniel Ricciardo
+Red Bull
+Scuderia AlphaTauri
+	6.97	80	11
+18th		Fernando Alonso
+Mercedes
+Aston Martin Aramco Cognizant F1 Team
+	10.59	68	6
+20th		Oscar Piastri
+Mercedes
+McLaren F1 Team
+	10.23	33	3
+19th		Esteban Ocon
+Renault
+BWT Alpine F1 Team
+	6.92	33	5
