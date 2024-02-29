@@ -2,80 +2,80 @@
 	Alexander Albon
 Mercedes
 Williams Racing
-	139	6.87	7.13	+0.26
+	-	6.63	-	-
 	Carlos Sainz
 Ferrari
 Scuderia Ferrari
-	200	11.80	11.99	+0.19
+	-	11.49	-	-
 	Charles Leclerc
 Ferrari
 Scuderia Ferrari
-	94	11.63	11.11	-0.52
+	-	12.00	-	-
 	Daniel Ricciardo
-Red Bull
-Scuderia AlphaTauri
-	84	6.97	6.85	-0.12
+Honda
+Visa Cash App RB F1 Team
+	-	7.17	-	-
 	Esteban Ocon
 Renault
 BWT Alpine F1 Team
-	33	6.92	6.45	-0.47
+	-	7.58	-	-
 	Fernando Alonso
 Mercedes
-Aston Martin Aramco Cognizant F1 Team
-	68	10.59	10.00	-0.59
+Aston Martin Aramco F1 Team
+	-	9.46	-	-
 	George Russell
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	169	11.38	11.40	+0.02
+	-	11.06	-	-
 	Kevin Magnussen
 Ferrari
 MoneyGram Haas F1 Team
-	101	6.19	6.26	+0.07
+	-	5.36	-	-
 	Lance Stroll
 Mercedes
-Aston Martin Aramco Cognizant F1 Team
-	187	6.56	7.18	+0.62
+Aston Martin Aramco F1 Team
+	-	8.34	-	-
 	Lando Norris
 Mercedes
 McLaren F1 Team
-	250	11.52	12.08	+0.56
+	-	11.86	-	-
 	Lewis Hamilton
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	75	12.56	11.82	-0.74
+	-	11.44	-	-
 	Logan Sargeant
 Mercedes
 Williams Racing
-	126	4.93	5.30	+0.37
+	-	5.99	-	-
 	Max Verstappen
-Red Bull
+Honda
 Oracle Red Bull Racing
-	360	23.83	23.91	+0.08
+	-	24.14	-	-
 	Nico Hülkenberg
 Ferrari
 MoneyGram Haas F1 Team
-	129	6.26	6.52	+0.26
+	-	6.23	-	-
 	Oscar Piastri
 Mercedes
 McLaren F1 Team
-	33	10.23	9.43	-0.80
+	-	9.56	-	-
 	Pierre Gasly
 Renault
 BWT Alpine F1 Team
-	158	7.92	8.21	+0.29
+	-	8.03	-	-
 	Sergio Pérez
-Red Bull
+Honda
 Oracle Red Bull Racing
-	201	13.00	13.08	+0.08
+	-	12.53	-	-
 	Valtteri Bottas
 Ferrari
 Alfa Romeo F1 Team Orlen
-	98	6.38	6.41	+0.03
+	-	5.91	-	-
 	Yuki Tsunoda
-Red Bull
-Scuderia AlphaTauri
-	160	5.45	6.00	+0.55
+Honda
+Visa Cash App RB F1 Team
+	-	6.97	-	-
 	Zhou Guanyu
 Ferrari
 Alfa Romeo F1 Team Orlen
-	88	7.36	7.23	-0.13
+	-	6.61	-	-
