@@ -2,80 +2,80 @@
 	Alexander Albon
 Mercedes
 Williams Racing
-	-	6.63	-	-
+	66	6.63	6.51	-0.12
 	Carlos Sainz
 Ferrari
 Scuderia Ferrari
-	-	11.49	-	-
+	197	11.49	11.96	+0.47
 	Charles Leclerc
 Ferrari
 Scuderia Ferrari
-	-	12.00	-	-
+	167	12.00	12.17	+0.17
 	Daniel Ricciardo
 Honda
 Visa Cash App RB F1 Team
-	-	7.17	-	-
+	75	7.17	7.07	-0.10
 	Esteban Ocon
 Renault
 BWT Alpine F1 Team
-	-	7.58	-	-
+	72	7.58	7.41	-0.17
 	Fernando Alonso
 Mercedes
 Aston Martin Aramco F1 Team
-	-	9.46	-	-
+	97	9.46	9.31	-0.15
 	George Russell
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	-	11.06	-	-
+	152	11.06	11.20	+0.14
 	Kevin Magnussen
 Ferrari
 MoneyGram Haas F1 Team
-	-	5.36	-	-
+	87	5.36	5.54	+0.18
 	Lance Stroll
 Mercedes
 Aston Martin Aramco F1 Team
-	-	8.34	-	-
+	87	8.34	8.22	-0.12
 	Lando Norris
 Mercedes
 McLaren F1 Team
-	-	11.86	-	-
+	130	11.86	11.74	-0.12
 	Lewis Hamilton
 Mercedes
 Mercedes-AMG Petronas F1 Team
-	-	11.44	-	-
+	121	11.44	11.29	-0.15
 	Logan Sargeant
 Mercedes
 Williams Racing
-	-	5.99	-	-
+	55	5.99	5.84	-0.15
 	Max Verstappen
 Honda
 Oracle Red Bull Racing
-	-	24.14	-	-
+	332	24.14	24.45	+0.31
 	Nico Hülkenberg
 Ferrari
 MoneyGram Haas F1 Team
-	-	6.23	-	-
+	66	6.23	6.15	-0.08
 	Oscar Piastri
 Mercedes
 McLaren F1 Team
-	-	9.56	-	-
+	103	9.56	9.45	-0.11
 	Pierre Gasly
 Renault
 BWT Alpine F1 Team
-	-	8.03	-	-
+	70	8.03	7.80	-0.23
 	Sergio Pérez
 Honda
 Oracle Red Bull Racing
-	-	12.53	-	-
+	187	12.53	12.81	+0.28
 	Valtteri Bottas
 Ferrari
 Alfa Romeo F1 Team Orlen
-	-	5.91	-	-
+	56	5.91	5.78	-0.13
 	Yuki Tsunoda
 Honda
 Visa Cash App RB F1 Team
-	-	6.97	-	-
+	68	6.97	6.83	-0.14
 	Zhou Guanyu
 Ferrari
 Alfa Romeo F1 Team Orlen
-	-	6.61	-	-
+	104	6.61	6.80	+0.19
