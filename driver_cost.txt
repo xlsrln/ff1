@@ -2,80 +2,80 @@
 	Alexander Albon
 Mercedes
 Williams Racing
-	73	6.51	6.51	-
-	Charles Leclerc
-Ferrari
-Scuderia Ferrari
-	195	12.17	12.69	+0.52
-	Daniel Ricciardo
-Honda
-Visa Cash App RB F1 Team
-	57	7.07	6.87	-0.20
-	Esteban Ocon
-Renault
-BWT Alpine F1 Team
-	83	7.41	7.41	-
-	Fernando Alonso
-Mercedes
-Aston Martin Aramco F1 Team
-	140	9.31	9.63	+0.32
-	George Russell
-Mercedes
-Mercedes-AMG Petronas F1 Team
-	123	11.20	11.18	-0.02
-	Kevin Magnussen
-Ferrari
-MoneyGram Haas F1 Team
-	71	5.54	5.62	+0.08
-	Lance Stroll
-Mercedes
-Aston Martin Aramco F1 Team
-	7	8.22	7.46	-0.76
-	Lando Norris
-Mercedes
-McLaren F1 Team
-	100	11.74	11.46	-0.28
-	Lewis Hamilton
-Mercedes
-Mercedes-AMG Petronas F1 Team
-	111	11.29	11.15	-0.14
-	Logan Sargeant
-Mercedes
-Williams Racing
-	79	5.84	5.96	+0.12
-	Max Verstappen
-Honda
-Oracle Red Bull Racing
-	300	24.45	24.68	+0.23
-	Nico Hülkenberg
-Ferrari
-MoneyGram Haas F1 Team
-	95	6.15	6.38	+0.23
+	86	5.96	6.12	+0.16
 	Carlos Sainz
 Ferrari
 Scuderia Ferrari
-	197	11.49	11.96	+0.47
+	165	12.31	12.53	+0.22
+	Charles Leclerc
+Ferrari
+Scuderia Ferrari
+	63	13.09	12.34	-0.75
+	Daniel Ricciardo
+Honda
+Visa Cash App RB F1 Team
+	75	6.87	6.84	-0.03
+	Esteban Ocon
+Renault
+BWT Alpine F1 Team
+	68	6.62	6.56	-0.06
+	Fernando Alonso
+Mercedes
+Aston Martin Aramco F1 Team
+	104	8.93	8.95	+0.02
+	George Russell
+Mercedes
+Mercedes-AMG Petronas F1 Team
+	83	12.32	11.82	-0.50
+	Kevin Magnussen
+Ferrari
+MoneyGram Haas F1 Team
+	93	6.12	6.33	+0.21
+	Lance Stroll
+Mercedes
+Aston Martin Aramco F1 Team
+	113	7.53	7.77	+0.24
+	Lando Norris
+Mercedes
+McLaren F1 Team
+	167	14.11	14.17	+0.06
+	Lewis Hamilton
+Mercedes
+Mercedes-AMG Petronas F1 Team
+	312	11.24	12.86	+1.62
+	Logan Sargeant
+Mercedes
+Williams Racing
+	75	5.50	5.61	+0.11
+	Max Verstappen
+Honda
+Oracle Red Bull Racing
+	182	21.59	21.03	-0.56
+	Nico Hülkenberg
+Ferrari
+MoneyGram Haas F1 Team
+	122	6.80	7.19	+0.39
 	Oscar Piastri
 Mercedes
 McLaren F1 Team
-	150	9.45	9.84	+0.39
+	152	11.33	11.53	+0.20
 	Pierre Gasly
 Renault
 BWT Alpine F1 Team
-	1	7.80	7.03	-0.77
+	0	7.30	6.57	-0.73
 	Sergio Pérez
 Honda
 Oracle Red Bull Racing
-	180	12.81	13.13	+0.32
+	71	10.77	10.32	-0.45
 	Valtteri Bottas
 Ferrari
 Alfa Romeo F1 Team Orlen
-	55	5.78	5.69	-0.09
+	66	6.06	6.03	-0.03
 	Yuki Tsunoda
 Honda
 Visa Cash App RB F1 Team
-	65	6.83	6.73	-0.10
+	87	6.93	7.00	+0.07
 	Zhou Guanyu
 Ferrari
 Alfa Romeo F1 Team Orlen
-	63	6.80	6.68	-0.12
+	54	6.66	6.47	-0.19
